@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/clarity-glaze-deploy/sw.js', { scope: '/clarity-glaze-deploy/' })})}
