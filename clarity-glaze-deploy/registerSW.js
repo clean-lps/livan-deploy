@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/clarity-glaze-deploy/sw.js', { scope: '/clarity-glaze-deploy/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/livan-deploy/clarity-glaze-deploy/sw.js', { scope: '/livan-deploy/clarity-glaze-deploy/' })})}
