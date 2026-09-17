@@ -1,0 +1,116 @@
+{
+  "category": "community",
+  "generatedAt": "2026-09-16T21:18:35.112Z",
+  "articles": [
+    {
+      "id": "802f0324",
+      "title": "ADMISSION AND ADD-ONS",
+      "excerpt": "",
+      "image": "https://www.homesteadmiamispeedway.com/",
+      "link": "https://www.homesteadmiamispeedway.com/events/champ/",
+      "source": "Homestead-Miami Speedway",
+      "sourceUrl": "https://www.homesteadmiamispeedway.com/",
+      "publishedAt": null,
+      "fallbackImage": false
+    },
+    {
+      "id": "17933704",
+      "title": "2027 PRE-SALE SIGN UP",
+      "excerpt": "",
+      "image": "https://www.homesteadmiamispeedway.com/",
+      "link": "https://www.homesteadmiamispeedway.com/events/2027-championship/",
+      "source": "Homestead-Miami Speedway",
+      "sourceUrl": "https://www.homesteadmiamispeedway.com/",
+      "publishedAt": null,
+      "fallbackImage": false
+    },
+    {
+      "id": "684ce8a6",
+      "title": "GIVE BACK AT THE TRACK",
+      "excerpt": "",
+      "image": "https://www.homesteadmiamispeedway.com/",
+      "link": "https://www.homesteadmiamispeedway.com/events/give-back-at-the-track/",
+      "source": "Homestead-Miami Speedway",
+      "sourceUrl": "https://www.homesteadmiamispeedway.com/",
+      "publishedAt": null,
+      "fallbackImage": false
+    },
+    {
+      "id": "6953ccdf",
+      "title": "2027 ROLEX 24 AT DAYTONA",
+      "excerpt": "",
+      "image": "https://www.daytonainternationalspeedway.com/",
+      "link": "https://www.daytonainternationalspeedway.com/events/rolex24-at-daytona/",
+      "source": "Daytona International Speedway",
+      "sourceUrl": "https://www.daytonainternationalspeedway.com/",
+      "publishedAt": null,
+      "fallbackImage": false
+    },
+    {
+      "id": "1d84c86b",
+      "title": "2027 SPEEDWEEKS BY ADVENTHEALTH",
+      "excerpt": "",
+      "image": "https://www.daytonainternationalspeedway.com/",
+      "link": "https://www.daytonainternationalspeedway.com/events/speedweeks-by-adventhealth/",
+      "source": "Daytona International Speedway",
+      "sourceUrl": "https://www.daytonainternationalspeedway.com/",
+      "publishedAt": null,
+      "fallbackImage": false
+    },
+    {
+      "id": "2bce1fdc",
+      "title": "2027 BIKE WEEK AT DAYTONA",
+      "excerpt": "",
+      "image": "https://www.daytonainternationalspeedway.com/",
+      "link": "https://www.daytonainternationalspeedway.com/events/bike-week/",
+      "source": "Daytona International Speedway",
+      "sourceUrl": "https://www.daytonainternationalspeedway.com/",
+      "publishedAt": null,
+      "fallbackImage": false
+    },
+    {
+      "id": "481a98a6",
+      "title": "2027 DAYTONA SUPERCROSS",
+      "excerpt": "",
+      "image": "https://www.daytonainternationalspeedway.com/",
+      "link": "https://www.daytonainternationalspeedway.com/events/daytona-supercross-ticket-options/",
+      "source": "Daytona International Speedway",
+      "sourceUrl": "https://www.daytonainternationalspeedway.com/",
+      "publishedAt": null,
+      "fallbackImage": false
+    },
+    {
+      "id": "8ca37c8a",
+      "title": "2027 COKE ZERO SUGAR 400",
+      "excerpt": "",
+      "image": "https://www.daytonainternationalspeedway.com/",
+      "link": "https://www.daytonainternationalspeedway.com/events/summer-cup-race/",
+      "source": "Daytona International Speedway",
+      "sourceUrl": "https://www.daytonainternationalspeedway.com/",
+      "publishedAt": null,
+      "fallbackImage": false
+    },
+    {
+      "id": "f242d954",
+      "title": "2027 CLASH AT DAYTONA",
+      "excerpt": "",
+      "image": "https://www.daytonainternationalspeedway.com/",
+      "link": "https://www.daytonainternationalspeedway.com/events/the-clash-at-daytona/",
+      "source": "Daytona International Speedway",
+      "sourceUrl": "https://www.daytonainternationalspeedway.com/",
+      "publishedAt": null,
+      "fallbackImage": false
+    },
+    {
+      "id": "1e0f5d92",
+      "title": "2027 MOBIL 1 TWELVE HOURS",
+      "excerpt": "",
+      "image": "https://www.sebringraceway.com/",
+      "link": "https://www.sebringraceway.com/events/mobil-1-twelve-hours-of-sebring/",
+      "source": "Sebring International Raceway",
+      "sourceUrl": "https://www.sebringraceway.com/",
+      "publishedAt": null,
+      "fallbackImage": false
+    }
+  ]
+}
