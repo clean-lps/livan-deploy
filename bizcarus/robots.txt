@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bizcarus.com/sitemap.xml
+Sitemap: https://bizcarus.com/livan-deploy/bizcarus/sitemap.xml
