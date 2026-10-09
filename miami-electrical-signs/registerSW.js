@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/livan-deploy/miami-electrical-signs/sw.js', { scope: '/livan-deploy/miami-electrical-signs/' })})}
